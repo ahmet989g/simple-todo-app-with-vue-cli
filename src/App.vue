@@ -15,26 +15,16 @@ export default {
         AddSection,
         ListSection
     },
-    created() {
-        // this.todoList = [
-        //     { id : 1, text : "Bootcamp #2.0" },
-        //     { id : 2, text : "Bootcamp #2.1" },
-        //     { id : 3, text : "Bootcamp #2.2" },
-        //     { id : 4, text : "Bootcamp #2.3" },
-        //     { id : 5, text : "Bootcamp #2.4" },
-        //     { id : 6, text : "Bootcamp #2.5" }
-        // ]
-    },
     data(){
         return{
             provideData:{
                 todoList : [
-                    { id : 1, text : "Bootcamp #2.0" },
-                    { id : 2, text : "Bootcamp #2.1" },
-                    { id : 3, text : "Bootcamp #2.2" },
-                    { id : 4, text : "Bootcamp #2.3" },
-                    { id : 5, text : "Bootcamp #2.4" },
-                    { id : 6, text : "Bootcamp #2.5" }
+                    { id : 1, text : "ToDo Item #2.0" },
+                    { id : 2, text : "ToDo Item #2.1" },
+                    { id : 3, text : "ToDo Item #2.2" },
+                    { id : 4, text : "ToDo Item #2.3" },
+                    { id : 5, text : "ToDo Item #2.4" },
+                    { id : 6, text : "ToDo Item #2.5" }
                 ]
             }
         }
