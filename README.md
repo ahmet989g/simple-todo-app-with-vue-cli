@@ -1,4 +1,4 @@
-# 2-todo-app
+# Simple ToDo App With Vue-CLI
 
 ## Project setup
 ```
